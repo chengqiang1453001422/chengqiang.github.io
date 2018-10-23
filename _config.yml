@@ -1,13 +1,13 @@
 # Site settings
 title: MyBlog
-SEOTitle: 赵乔石的博客 | MyBlog
+SEOTitle: 成强的博客 | MyBlog
 header-img: img/post-bg-desk.jpg
-email: zhaoqiaoshi@aliyun.com
+email: 1453001422@qq.com
 description: "Every failure is leading towards success."
-keyword: "BY, Blog, 赵乔石的博客, zhaoqiaoshi, 赵乔石, iOS, Apple, iPhone,joeStoneZ"
-url: "http://joeStoneZ.github.io"          # your host, for absolute URL
+keyword: "BY, Blog, 成强的博客, zhaoqiaoshi, 成强, iOS, Apple, iPhone,chengqiang1453001422"
+url: "http://chengqiang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/joeStoneZ/joeStoneZ.github.io.git" # you code repository
+github_repo: "https://github.com/chengqiang/chengqiang.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -19,7 +19,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-github_username:    joeStoneZ
+github_username:    chengqiang
 #twitter_username:   qiubaiying
 
 
