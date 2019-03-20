@@ -1,10 +1,10 @@
 # Site settings
-title: MyBlog
-SEOTitle: 成强的博客 | MyBlog
+title: 成强的博客
+SEOTitle: 成强的博客
 header-img: img/post-bg-desk.jpg
 email: 1453001422@qq.com
 description: "Every failure is leading towards success."
-keyword: "BY, Blog, 成强的博客, zhaoqiaoshi, 成强, iOS, Apple, iPhone,chengqiang1453001422"
+keyword: "BY, Blog, 成强的博客, 成强, iOS, Apple, iPhone,chengqiang1453001422"
 url: "http://chengqiang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/chengqiang/chengqiang.github.io.git" # you code repository
