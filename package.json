@@ -1,14 +1,14 @@
 {
-    "name": "by-blog",
-    "title": "BY Blog",
-    "author": "BY <zhaoqiaoshi@aliyun.com>",
+    "name": "我的博客",
+    "title": "我的博客",
+    "author": "BY <1453001422@qq.com>",
     "version": "1.7.0",
-    "homepage": "http://joeStoneZ.github.io",
+    "homepage": "http://chengqiang.site",
     "repository": {
         "type": "git",
-        "url": "https://github.com/joeStoneZ/joeStoneZ.github.io"
+        "url": "https://github.com/chengqiang1453001422/chengqiang1453001422.github.io"
     },
-    "bugs": "https://github.com/joeStoneZ/joeStoneZ.github.io/issues",
+    "bugs": "https://github.com/chengqiang1453001422/chengqiang1453001422.github.io/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
